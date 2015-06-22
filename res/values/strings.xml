@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ballSmove</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ruletxt">玩法非常简单，通过上下左右滑动屏幕来控制白点在3X3大小的格子里移动，躲避飞来黑球以及食用蓝色方块。是一款让人停不下来的小游戏。</string>
+
+</resources>

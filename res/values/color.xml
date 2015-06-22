@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_color">#ffe6f0ff</color>
+    <color name="hilite">#ffffffff</color>
+    <color name="light">#64c6d4ef</color>
+    <color name="dark">#6456648f</color>
+</resources>
